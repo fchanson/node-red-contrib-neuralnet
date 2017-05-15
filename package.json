@@ -1,7 +1,7 @@
 {
   "name": "node-red-contrib-neuralnet",
   "version": "0.0.1",
-  "description": "",
+  "description": "This node provides neural networks using brain.js",
   "dependencies": {
 	  "brain.js":"0.7.0"
   },
