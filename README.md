@@ -20,6 +20,12 @@ in the Node-red, Manage palette, Install node-red-contrib-neuralnet
 This node provides neural networks.<br>
 At first you need to see the [brain.js](https://github.com/harthur-org/brain.js) documentation<p>
 
+The following neural networks are available :<p>
+- Feedforward Neural Network with backpropagation.
+- Recurrent Neural Network (BETA).
+- Long Short Term Memory Neural Network (BETA).
+- Gated Recurrent Unit (BETA).
+
 ### Training
 
 The training data need to be stored in **msg.trainData** and the format is described [here](https://github.com/harthur-org/brain.js#training).<br>
