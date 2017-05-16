@@ -1,7 +1,7 @@
 # node-red-contrib-neuralnet
 
 This node provides neural networks.
-It is based on [brain.js](https://github.com/harthur-org/brain.js).
+It is based on [brain.js](https://github.com/harthur-org/brain.js) (version 1.0.0-rc.3).
 
 ### Install
 
